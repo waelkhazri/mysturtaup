@@ -1,0 +1,15 @@
+.bg-green {
+    background-color: #43b4be;
+}
+
+.items a  {
+    text-decoration: none;
+    color: white !important;
+}
+
+.mxw-400 {
+    max-width: 400px;
+}
+.p-6 {
+    padding: 3.5rem;
+}
